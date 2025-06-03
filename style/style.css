@@ -1,0 +1,28 @@
+@font-face {
+  font-family: Papyrus;
+  src: url("papyrus.woff2");
+}
+body{
+    background-image: url("/style/images/background.png");
+    background-repeat: inherit;
+    color: black;
+    font-family: Papyrus;
+    flex-wrap: wrap;
+}
+div#backdrop{
+    background-color: rgb(0, 0, 0);
+    color: wheat;
+    align-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+
+}
+div#title{
+    padding-left: 50%;
+    padding-right: 50%;
+}
+div#skelaton{
+    align-content: center;
+    display: grid;
+}
