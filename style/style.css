@@ -3,7 +3,7 @@
   src: url("papyrus.woff2");
 }
 body{
-    background-image: url("./style/images/background.png");
+    background-image: url("style/images/background.png");
     background-repeat: inherit;
     color: black;
     font-family: Papyrus;
