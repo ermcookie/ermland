@@ -26,3 +26,7 @@ div#skelaton{
     align-content: center;
     display: grid;
 }
+#gaemtitel{
+    justify-content: center;
+    display: flex;
+}
